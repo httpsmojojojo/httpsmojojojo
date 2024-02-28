@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsmojojojo&label=Profile%20views&color=0e75b6&style=flat" alt="httpsmojojojo" /> </p>
 
-- 🔭 I’m currently working on **open source projects**
+- 🔭 I’m currently working on **personal portfolio**
 
 - 🌱 I’m currently learning **CS50x**
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **m.moiz17110@gmail.com**
 
