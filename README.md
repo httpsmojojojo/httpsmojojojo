@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Moiz</h1>
-<h3 align="center">A passionate Game Dev and Flutter Dev.</h3>
+<h3 align="center">A passionate web dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsmojojojo&label=Profile%20views&color=0e75b6&style=flat" alt="httpsmojojojo" /> </p>
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **CS50x**
+- 🌱 I’m currently learning **CS50x** & **The Odin Project**
 
 - 📫 How to reach me **m.moiz17110@gmail.com**
 
